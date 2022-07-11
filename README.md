@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/wagnerdsc/wagnerdsc/main/Wagner%20Silva.png?token=GHSAT0AAAAAABWPZLIWBBEHNEYXV7CYOG62YWMUFPQ "Header")](https://dev.to/wagnerdsc)
+[![Header](https://github.com/wagnerdsc/wagnerdsc/raw/main/Wagner%20Silva.png "Header")](https://dev.to/wagnerdsc)
 
 <p align='center'>
 <a href="https://dev.to/wagnerdsc"><img height="30" src="https://github.com/wagnerdsc/wagnerdsc/raw/main/main/icon/resized_logo_UQww2soKuUsjaOGNB38o.png"></a>&nbsp;&nbsp;
