@@ -33,3 +33,6 @@ Excel, Pentaho, Gaio, Python, SQL, PowerBI, Tableau, Figma, Github
 
 <h3>Livros / E-books</h3>
 <a target="_blank" href="https://www.amazon.com.br/An%C3%A1lise-Dados-Sa%C3%BAde-Guia-Abrangente-ebook/dp/B0CJPZYGT3/ref=sr_1_20?crid=3K13W98C3PJIM&keywords=analise+de+dados&qid=1696341314&sprefix=%2Caps%2C958&sr=8-20">Análise de dados em saúde: Um guia abrangente</a>
+
+<h3>Cases</h3>
+<a target="_blank" href="https://aws.amazon.com/pt/solutions/case-studies/case-study-agir-nublify/">Com Amazon Bedrock, Agir amplia em 30% a eficiência da ocupação de leitos hospitalares</a>
